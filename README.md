@@ -12,6 +12,8 @@ My Claude Code skills. Each folder is one skill.
 
     npx skills@latest add kaylynvanas/skills
 
+This installs into the current project. Add `-g` to install for all your projects.
+
 Or copy a skill folder into `~/.claude/skills/`:
 
     cp -R coaching-systems-design ~/.claude/skills/
